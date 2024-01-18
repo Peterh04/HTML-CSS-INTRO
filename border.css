@@ -122,10 +122,17 @@ a:hover {
 .head-parent{
     background-color: black;
     color: white;
-    height: 52px;
+    height: 60px;
     width: 100%vh;
     text-align: center;
     size: 18px;
+    
+>p{
+  
+    padding-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
     
     
 }
@@ -135,13 +142,63 @@ a:hover {
     background-color: black;
     color: black;
     background: transparent;
-    height: 52px;
+    height: 70px;
     width: 100%vh;
     border-style: groove;
     margin-top: 0;
-    transform: translateY(0);
-
-
-
     
+
+
+    >p{
+        text-align: center;
+       padding-top: 30px;
+        padding-right: 50px;
+        margin-left: 30px;
+    }
+
+
+
+
+}
+
+.login-btn{
+    background-color:white;
+    border-radius: 10px;
+    border: transparent;
+    height: 50px;
+    width: 40px;
+    align-items: center;
+display: flex;
+flex-direction: row;
+    margin-left: 600px;
+    color: rgb(0,145,173);
+    padding-top: 14px;
+    
+    
+   
+
+    >i{
+        padding-left: 10px;
+    
+    }
+    
+}
+
+.apply-btn2{
+
+    margin-left: 50px;
+    background-color: rgb(254,52,72);
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    color: white;
+    padding-top: 12px;
+
+    >p{
+
+        margin-top: 12px;
+    }
+
+
 }
