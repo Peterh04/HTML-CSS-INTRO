@@ -1,0 +1,119 @@
+section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+
+
+}
+
+.section-div {
+
+    padding-left: 100px;
+    margin-top: 250px;
+    width: 720px;
+    padding-right: 20px;
+
+}
+
+.main-heading {
+
+    color: black;
+    font-size: 45px;
+
+    font-family: 'Montserrat', sans-serif;
+
+
+
+}
+
+.highlight-mark {
+
+    color: Red;
+    background: transparent;
+    font-weight: 1500;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.section-paragraph {
+
+    font-size: 22px;
+    padding-top: 22px;
+
+
+}
+
+.custom-style {
+    margin-top: 80px;
+    display: flex;
+    border-radius: 5%;
+
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+
+
+
+
+
+}
+
+.btn-section {
+
+    display: flex;
+    flex-direction: row;
+    transition-duration: 0.1s;
+    margin-left: x;
+
+
+    :hover {
+
+
+
+        background-color: #0091ad;
+        cursor: pointer;
+        border-style: none;
+        color: white;
+
+
+    }
+
+
+}
+
+
+
+
+.apply-btn {
+
+    background-color: red;
+
+    color: white;
+    width: 350px;
+    border-radius: 8px;
+    height: 32px;
+    padding-top: 12px;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 50px;
+
+
+}
+
+.explore-btn {
+
+    border-style: solid;
+    border-color: red;
+    color: red;
+    width: 350px;
+    border-radius: 8px;
+    height: 40px;
+    text-align: center;
+
+    margin-left: 20px;
+    margin-top: 50px;
+
+
+
+}
