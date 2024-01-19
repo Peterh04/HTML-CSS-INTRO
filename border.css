@@ -150,6 +150,8 @@ a:hover {
 
 
     >p{
+        font-weight: 20px;
+        display: flex;
         text-align: center;
        padding-top: 30px;
         padding-right: 50px;
@@ -175,6 +177,7 @@ flex-direction: row;
     padding-top: 14px;
     
     
+    
    
 
     >i{
@@ -194,6 +197,7 @@ flex-direction: row;
     text-align: center;
     color: white;
     padding-top: 12px;
+    
 
     >p{
 
